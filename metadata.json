@@ -1,0 +1,6 @@
+{
+  "name": "Nova",
+  "description": "Proactive AI General Manager for small businesses that autonomously monitors business activity, triages events, drafts responses, and escalates when needed.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
